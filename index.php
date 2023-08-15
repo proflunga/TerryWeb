@@ -512,7 +512,7 @@
                                                 </ul>
                                             </div>
                                             <div class="rate-box">
-                                                <p>$4.50/ KG</p>
+                                                <p>$6.00 / KG</p>
                                             </div>
                                           
                                         </div>
@@ -548,7 +548,7 @@
                                                 </ul>
                                             </div>
                                             <div class="rate-box">
-                                                <p>$7.00</p>
+                                                <p>$6.00</p>
                                             </div>
                                             
                                         </div>
@@ -621,7 +621,7 @@
                                                 </ul>
                                             </div>
                                             <div class="rate-box">
-                                                <p>$4.00 / KG</p>
+                                                <p>$4.50 / KG</p>
                                             </div>
                                          
                                         </div>

@@ -259,6 +259,7 @@
                                     <li class="active"><a href="#">Pork</a></li>
                                     <li><a href="#">Chickens</a></li>
                                     <li><a href="#">Sausages</a></li>
+                                    <li><a href="#">Goat</a></li>
                     
                                 </ul>
                             </div>
@@ -301,7 +302,7 @@
                                                 </ul>
                                             </div>
                                             <div class="rate-box">
-                                                <p>$4.50/ KG</p>
+                                                <p>$6.00 / KG</p>
                                             </div>
                                           
                                         </div>
@@ -337,7 +338,7 @@
                                                 </ul>
                                             </div>
                                             <div class="rate-box">
-                                                <p>$7.00</p>
+                                                <p>$6.00</p>
                                             </div>
                                             
                                         </div>
@@ -410,7 +411,7 @@
                                                 </ul>
                                             </div>
                                             <div class="rate-box">
-                                                <p>$4.00 / KG</p>
+                                                <p>$4.50 / KG</p>
                                             </div>
                                          
                                         </div>
@@ -446,9 +447,155 @@
                                                 </ul>
                                             </div>
                                             <div class="rate-box">
-                                                <p>$4.500 / KG</p>
+                                                <p>$4.50 / KG</p>
                                             </div>
                                           
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--End single product item-->
+
+                                <!--Start single product item-->
+                                <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12">
+                                    <div class="single-product-item style1instyle2 wow fadeInUp animated animated" data-wow-delay="00ms" data-wow-duration="1500ms">
+                                        <div class="img-holder">
+                                            <img src="assets/images/shop/choicebeef.jpg" alt="Awesome Product Image">
+                                            <div class="overlay-style-one">
+                                                <div class="box">
+                                                    <div class="content">
+                                                        <div class="zoom-button">
+                                                            <a class="lightbox-image" data-fancybox="gallery" href="assets/images/shop/choicebeef.jpg">
+                                                                <span class="icon-magnifiying-glass"></span>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="title-holder">
+                                            <h4 class="product-title"><a href="shop-single.html">Choice Beef</a></h4>
+                                            <div class="review-box">
+                                                <ul>
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star"></i></li>
+                                                </ul>
+                                            </div>
+                                            <div class="rate-box">
+                                                <p>$5.00</p>
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--End single product item-->
+
+                                <!--Start single product item-->
+                                <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12">
+                                    <div class="single-product-item style1instyle2 wow fadeInUp animated animated" data-wow-delay="00ms" data-wow-duration="1500ms">
+                                        <div class="img-holder">
+                                            <img src="assets/images/shop/goat.jpg" alt="Awesome Product Image">
+                                            <div class="overlay-style-one">
+                                                <div class="box">
+                                                    <div class="content">
+                                                        <div class="zoom-button">
+                                                            <a class="lightbox-image" data-fancybox="gallery" href="assets/images/shop/goat.jpg">
+                                                                <span class="icon-magnifiying-glass"></span>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="title-holder">
+                                            <h4 class="product-title"><a href="shop-single.html">Goat Meat</a></h4>
+                                            <div class="review-box">
+                                                <ul>
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star"></i></li>
+                                                </ul>
+                                            </div>
+                                            <div class="rate-box">
+                                                <p>$5.00</p>
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--End single product item-->
+                                <!--Start single product item-->
+                                <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12">
+                                    <div class="single-product-item style1instyle2 wow fadeInUp animated animated" data-wow-delay="00ms" data-wow-duration="1500ms">
+                                        <div class="img-holder">
+                                            <img src="assets/images/shop/porkchop.jpg" alt="Awesome Product Image">
+                                            <div class="overlay-style-one">
+                                                <div class="box">
+                                                    <div class="content">
+                                                        <div class="zoom-button">
+                                                            <a class="lightbox-image" data-fancybox="gallery" href="assets/images/shop/porkchop.jpg">
+                                                                <span class="icon-magnifiying-glass"></span>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="title-holder">
+                                            <h4 class="product-title"><a href="shop-single.html">Pork Chops </a></h4>
+                                            <div class="review-box">
+                                                <ul>
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star"></i></li>
+                                                </ul>
+                                            </div>
+                                            <div class="rate-box">
+                                                <p>$6.00</p>
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--End single product item-->
+                                <!--Start single product item-->
+                                <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12">
+                                    <div class="single-product-item style1instyle2 wow fadeInUp animated animated" data-wow-delay="00ms" data-wow-duration="1500ms">
+                                        <div class="img-holder">
+                                            <img src="assets/images/shop/pork.jpg" alt="Awesome Product Image">
+                                            <div class="overlay-style-one">
+                                                <div class="box">
+                                                    <div class="content">
+                                                        <div class="zoom-button">
+                                                            <a class="lightbox-image" data-fancybox="gallery" href="assets/images/shop/pork.jpg">
+                                                                <span class="icon-magnifiying-glass"></span>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="title-holder">
+                                            <h4 class="product-title"><a href="shop-single.html">Pork Meat</a></h4>
+                                            <div class="review-box">
+                                                <ul>
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star"></i></li>
+                                                </ul>
+                                            </div>
+                                            <div class="rate-box">
+                                                <p>$5.00</p>
+                                            </div>
+                                            
                                         </div>
                                     </div>
                                 </div>
